@@ -1,0 +1,8 @@
+Roteiro de Aula GIT
+
+- Por que controlar versão
+- Como controlar ? (manual/svn/git)
+- Ferrmamentas
+- Conceitos
+-- Init
+
