@@ -5,6 +5,13 @@ Roteiro de Aula GIT
 - Ferrmamentas
 - Conceitos
 -- Init
+<<<<<<< HEAD
 
 
 1986
+=======
+-- commit
+-- log
+-- push
+-- pool
+>>>>>>> 78fa0c5ff7843541f5038e90b4512de1322cc9d2
