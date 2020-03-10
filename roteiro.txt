@@ -5,4 +5,7 @@ Roteiro de Aula GIT
 - Ferrmamentas
 - Conceitos
 -- Init
-
+-- commit
+-- log
+-- push
+-- pool
